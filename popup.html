@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="task.css">
+  <link rel="stylesheet" href="bootstrap.min.css">
+</head>
+<body>
+	<div class="main">
+		<div class="add-tasks">
+		<span><b>Easy Tasks</b></span>
+			<form id="task-form">
+				<div>
+					<input type="text" name="task" id="task" autocomplete="off" placeholder="Add your tasks here!" />
+					<!-- <label for="task" class="my-block"></label> -->
+				</div>
+				<input type="submit" value="Add One Task" class="my-btn" />
+			</form>
+			<p id="error"></p>
+		</div>
+		<span>TaskLists</br>(Click to remove!!!)</span>
+			<ul id="collection"></ul>
+			<a href="#" class="my-btn" id="clear-tasks">Clear All Tasks</span></a>
+		</div>
+	</div>
+	
+  <script src="popup.js"></script>
+  <script src="jquery-3.4.1.min.js"></script>
+</body>
+</html>

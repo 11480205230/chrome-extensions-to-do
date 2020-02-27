@@ -1,0 +1,47 @@
+.main {
+    margin: 20px;
+    height: auto;
+    width: 200px;
+    padding: 10px;
+    font-family: consolas;
+}
+
+.add-tasks {
+    border-bottom: solid 1px rgb(233,233,233);
+}
+
+#task {
+    margin: 10px 0px;
+}
+
+.my-block {
+    display: block;
+}
+
+.btn-black-border {
+    border: solid 1px black;
+}
+
+.my-btn {
+    padding: 5px 8px;
+    color: black;
+    border: solid 1px rgb(233,233,233);
+    background-color: rgb(233,233,233);
+    text-decoration: none;
+}
+
+.my-float-right {
+    float: right;
+    margin-right: 20px;
+}
+
+#collection {
+    margin: 0px 10px 10px -20px;
+    overflow: hidden;
+    white-space: normal;
+    word-break: break-all;
+}
+
+.collection-item {
+    margin-bottom: 5px;
+}

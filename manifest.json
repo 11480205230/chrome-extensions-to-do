@@ -1,0 +1,23 @@
+ {
+    "name": "Easy Tasks",
+    "version": "1.0",
+    "description": "(SUTD)Easy way to add your own TO-DO lists!",
+    "permissions": ["storage","declarativeContent","activeTab"],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_title": "Add your tasks here!",
+      "default_icon": {
+        "16": "images/16.png",
+        "32": "images/32.png",
+        "64": "images/64.png",
+        "128": "images/128.png"
+      }
+    },
+    "icons": {
+      "16": "images/16.png",
+      "32": "images/32.png",
+      "64": "images/64.png",
+      "128": "images/128.png"
+    },
+	  "manifest_version": 2
+  }
