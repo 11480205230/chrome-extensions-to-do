@@ -26,5 +26,5 @@ This is a chrome extensions to add your daily tasks to your browser with just a 
 
 1.When you first open your chrome, it may aware you of below,just click `x ` on the top right
 
-2.if you clicked `Disable`,take it easy and open [chrome://extensions/](chrome://extensions/) ,click button on the right bottom of the extensions
+2.If you clicked `Disable`,take it easy and open [chrome://extensions/](chrome://extensions/) ,click button on the right bottom of the extensions
 
